@@ -1,5 +1,5 @@
-#Python More Data Structures
-<p>Write a function that computes the square value of all integers of a matrix.
+# Python More Data Structures
+<p>Write a function that computes the square value of all integers of a matrix.</p>
 + Prototype: def square_matrix_simple(matrix=[]):
 + matrix is a 2 dimensional array
 + Returns a new matrix:
@@ -8,4 +8,3 @@
 + Initial matrix should not be modified
 + You are not allowed to import any module
 + You are allowed to use regular loops, map, etc.
-</p>
